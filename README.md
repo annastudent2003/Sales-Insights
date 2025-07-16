@@ -7,3 +7,10 @@ There is a company Y, it is suffering loss and wants to know which product is se
 Through Data Analysis, the overview of all the renevue, top products, top customers, etc is presented.
 
 ![image alt](https://github.com/annastudent2003/Sales-Insights/blob/ab3c7342a9425ec4e2234e2efa0b3ee2f34f7ac7/Dashboard%20using%20Tablaeu-2.jpg)
+
+# Dashboard Live 
+
+
+
+https://github.com/user-attachments/assets/d1bd0611-6ca3-44e5-ab27-f77de1a9b46c
+
